@@ -38,6 +38,14 @@ background-color: olive;
     background-color: slategrey;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+main {
+    text-align: center;
+}
+.card img {
+    max-width: 300px;
+    max-height: 300px;
+}
 li a:hover {
     background-color: slateblue;
 
