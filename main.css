@@ -26,11 +26,20 @@ padding: 14px 16px;
 text-decoration: none;
 background-color: olive;
 }
-li a:hover {
-    background-color: slateblue;
 .card {
     border-style: solid;
+    width: 50%;
 }
+main {
+    text-align: center;
+}
+.card img {
+    max-width: 300px;
+    max-height: 300px;
+}
+li a:hover {
+    background-color: slateblue;
+
 }
 footer {
     width: 100%;
