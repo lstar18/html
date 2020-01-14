@@ -28,6 +28,9 @@ background-color: olive;
 }
 li a:hover {
     background-color: slateblue;
+.card {
+    border-style: solid;
+}
 }
 footer {
     width: 100%;
