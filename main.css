@@ -1,4 +1,37 @@
 body {
     color: mediumaquamarine;
-    background-color: dimgray;
+    background-color:red;
+    margin: 0;
+    text-align: center;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+}
+.nav-list{
+    list-style-type: none:
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+ 
+}
+li{
+    float:left
+}
+li a{
+display:black;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+background-color: olive;
+}
+li a:hover {
+    background-color: slateblue;
+}
+footer {
+    width: 100%;
+    color: white;
+    background-color: navy;
+    padding: fixed;
 }
