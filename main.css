@@ -42,10 +42,7 @@ background-color:navy;
 main {
     text-align: center;
 }
-.card img {
-    max-width: 300px;
-    max-height: 300px;
-}
+
 li a:hover {
     background-color: slateblue;
 
